@@ -1,0 +1,10 @@
+steps to add file to git repository
+
+1.first 2ta file er naam e same hote hobe.
+2.local file a git init korte hobe.
+3.then je file gulo upload korte chai sob local directory te rakhte hobe.
+4. a. git commit -m "file golore somporke sadharon bornona ki ki file rakha ase emn"
+   b.git git branch -M main
+   c.git remote add origin http://github.com/rakibulislam16/filename jekhane rakhete hobe
+   d.git push -u origin main
+5.ei command gulo likhle file gulo upload hye jabe.
